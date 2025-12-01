@@ -2,5 +2,10 @@ body {
 
   background-color: #27CCF5;
   color: #FFFFFF;
-  font-family: Courier New (monospace)
+  font-family: 'Courier New', monospace;
+}
+p {
+   background-color: #27CCF5;
+  color: #FFFFFF;
+  font-family: 'Courier New', monospace;
 }
