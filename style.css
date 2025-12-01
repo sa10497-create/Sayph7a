@@ -5,7 +5,19 @@ body {
   font-family: 'Courier New', monospace;
 }
 p {
-   background-color: #27CCF5;
+  background-color: #27CCF5;
+  color: #FFFFFF;
+  font-family: 'Courier New', monospace;
+}
+h1 {
+  background-color: #27CCF5;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: 'Courier New', monospace;
+}
+h2 {
+  background-color: #27CCF5;
+  text-align: center;
   color: #FFFFFF;
   font-family: 'Courier New', monospace;
 }
